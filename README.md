@@ -1,1 +1,1 @@
-# Instagram_User_Anaysis
+# Instagram_User_Analytics
